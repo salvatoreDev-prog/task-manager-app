@@ -36,3 +36,4 @@ task-manager-app/
 ---
 
 Developed as a showcase project for full stack web development.# task-manager-app
+# task-manager-app
